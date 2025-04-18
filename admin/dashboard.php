@@ -4,9 +4,9 @@
         header("Location: login.php");
         exit;
     }
-    echo "<h2>Welcome, Admin!</h2>";
-    echo "<a href='add_announcement.php'>Add Admission Announcement</a><br>";
-    echo "<a href='logout.php'>Logout</a>";
+    // echo "<h2>Welcome, Admin!</h2>";
+    // echo "<a href='add_announcement.php'>Add Admission Announcement</a><br>";
+    // echo "<a href='logout.php'>Logout</a>";
 ?>
 
 <!-- admin/dashboard.php -->
